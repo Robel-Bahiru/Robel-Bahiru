@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robel Bahiru</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robel-bahiru" alt="robel-bahiru" /></a> </p>
+
 
 - 🔭 I’m currently working on **web development**
 
@@ -28,6 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robel-bahiru&" alt="robel-bahiru" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robel-bahiru" alt="robel-bahiru" /></a> </p>
 
 <!---
 Robel-Bahiru/Robel-Bahiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
